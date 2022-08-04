@@ -1,5 +1,5 @@
 # Jets VDFs & plasma properties
-In this repository we provide information and dataset that allow the reproduction of the results found in the manuscript "*On Magnetosheath Jet Kinetic Structure and Plasma1
+In this repository we provide information and dataset that allow the reproduction of the results found in the manuscript "*On Magnetosheath Jet Kinetic Structure and Plasma
 Properties*" under consideration in Geophysical Research Letter (GRL) journal.
 
 [![Publication: Under Consideration](https://img.shields.io/badge/Publication-Under%20Review-yellow?style=flat&logo=openaccess)](https://github.com/SavvasRaptis/Jets-VDFS)
