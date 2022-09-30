@@ -23,11 +23,11 @@ Below we provide instructions for the reproduction of every figure
 
 * Figure 2(a) is almost identical to Figure 1(a) with diferent time limit and burst mode measurements rather than fast mode ones. For the $\text{v}_{||}$ 1D reduced plot, we used the local magnetic field data (srvy) mode, resampled on the same measurements of the FPI burst mode. Finally, for the first panel where we compare the observed dynamic pressure to dynamic pressure of the solar wind we use the [OMNIweb database](https://omniweb.gsfc.nasa.gov/form/omni_min.html). 
 
-* Figure 2(b-e) are reduced 2D VDFs. one can use the IPDist.reduce function of [irfu-matlab](https://github.com/irfu/irfu-matlab) package in 2D in x, y, z GSE coordinate system and in field alligned coordinate system which is explained in the manuscript.
+* Figure 2(b-e) are reduced 2D VDFs. one can use the IPDist.reduce function of [irfu-matlab](https://github.com/irfu/irfu-matlab) package in 2D in x, y, z GSE coordinate system and in field aligned coordinate system which is explained in the manuscript.
 
 ### Figure 3
 
-* Figure 3 was made using a variety of different techniques explained in the main manuscript. For the "cut" method one can see an similar example of irfu-matlab : [Example_MMS_partialmoments](https://github.com/irfu/irfu-matlab/blob/master/plots/mms/Example_MMS_partialmoments.m). For the "fit" method, we use MATLAB function [fit](https://se.mathworks.com/help/curvefit/fit.html) with default settings. For an easier convergance of the non-linear least square method of the fitting proccess, we use the FPI moments as initial guess points for both fitted Maxwellians. More information can be found in the manuscript. 
+* Figure 3 was made using a variety of different techniques explained in the main manuscript. For the "cut" method one can see an similar example of irfu-matlab : [Example_MMS_partialmoments](https://github.com/irfu/irfu-matlab/blob/master/plots/mms/Example_MMS_partialmoments.m). For the "fit" method, we use MATLAB function [fit](https://se.mathworks.com/help/curvefit/fit.html) with default settings. For an easier convergence of the non-linear least square method of the fitting process, we use the FPI moments as initial guess points for both fitted Maxwellians. More information can be found in the manuscript. 
 
 ### Figure 4
 
