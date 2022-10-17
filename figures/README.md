@@ -37,4 +37,8 @@ Below we provide instructions for the reproduction of every figure
 
 * The supplementary material Figure S1 was made using the same technique described in Figure 3. Furthermore, for the computation of the 95% confidence interval we used MATLAB function [confint](https://se.mathworks.com/help/curvefit/cfit.confint.html)
 
+### Figure S2
+
+*  To generate Figure S2 one needs to use the fast measurements of MMS similar to Figure 1 of the main article. The only difference is the adition of the fourth panel which is an 1D reduced VDF in the y GSE direction. Red shaded areas were made in inkscape. 
+
 If more information are needed, the reader may contact the corresponding author. 
