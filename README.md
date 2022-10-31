@@ -1,11 +1,10 @@
 # Jets VDFs & plasma properties
-In this repository we provide information and dataset that allow the reproduction of the results found in the manuscript "*On Magnetosheath Jet Kinetic Structure and Plasma
-Properties*" under consideration in Geophysical Research Letter (GRL) journal.
+In this repository we provide information and dataset that allow the reproduction of the results found in the manuscript "*On Magnetosheath Jet Kinetic Structure and Plasma Properties*" published in Geophysical Research Letter (GRL) journal.
 
-[![Publication: Under Consideration](https://img.shields.io/badge/Publication-Under%20Review-yellow?style=flat&logo=openaccess)](https://github.com/SavvasRaptis/Jets-VDFS)
+[![Publication: Published](https://img.shields.io/badge/Publication-Published-green?style=flat&logo=openaccess)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL100678)
 
 ### Cite as 
-*TBD*
+*Raptis, S., Karlsson, T., Vaivads, A., Lindberg, M., Johlander, A., & Trollvik, H. (2022). On magnetosheath jet kinetic structure and plasma properties. Geophysical Research Letters, 49, e2022GL100678. https://doi.org/10.1029/2022GL100678*
 
 ### Corresponding Author
 [![Savvas Raptis: 0000-0002-4381-3197](https://img.shields.io/badge/Savvas%20Raptis-0000--0002--4381--3197-green?style=flat&logo=orcid)](https://orcid.org/0000-0002-4381-3197)
